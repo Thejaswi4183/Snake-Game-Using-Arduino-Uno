@@ -16,7 +16,7 @@ This project implements the classic **Snake Game** using an **Arduino UNO**, **1
 | Component             | Quantity |
 |-----------------------|----------|
 | Arduino UNO           | 1        |
-| SSD1306 1.3" OLED (I2C) | 1        |
+| SH1106 1.3" OLED (I2C)| 1        |
 | Joystick Module       | 1        |
 | Breadboard & Jumper Wires | As needed |
 
