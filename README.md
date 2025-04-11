@@ -54,6 +54,20 @@ This project implements the classic **Snake Game** using an **Arduino UNO**, **1
 
 ---
 
+
+## 🖼️ Project Setup
+<ul>
+  <li><p float="left">
+  <h4>Real-Life Image</h4>
+  <img src="images/snake_game.jpg" width="300" />
+  </p></li>
+  <li><p float="left">
+  <h4>Diagram</h4>
+  <img src="images/diagram.png" width="300" />
+  </p></li>
+</ul>
+
+---
 ## 🧪 How to Play
 
 1. Connect your hardware as per the wiring table.
@@ -70,7 +84,4 @@ This project implements the classic **Snake Game** using an **Arduino UNO**, **1
 - Include sound effects using a buzzer
 - Difficulty modes (speed increase over time)
 - Save high score in EEPROM
-
----
-
 
